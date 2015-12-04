@@ -14,3 +14,9 @@ header ul li button
 {
 	width:89px;
 }
+#secAltaAlumnos
+{
+	display: none; /*ocultar el formulario*/
+	margin:0 auto;
+	width:350px;
+}
